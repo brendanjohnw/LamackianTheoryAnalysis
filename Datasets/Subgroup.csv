@@ -1,0 +1,7 @@
+,Subgroup,Number of errors,Special training,Counts
+0,Control,53092,79,1582
+1,Control A,9498,10,362
+2,Control B,7610,6,307
+3,Trained,48499,57,1627
+4,Trained A,8141,5,366
+5,Trained B,8774,5,367
