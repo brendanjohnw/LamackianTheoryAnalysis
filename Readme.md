@@ -13,13 +13,13 @@ control and test groups.
 
 Hence, the aim was to see whether there were any significant disparities between the two studies.
 
-**Dependencies *
+# Dependencies
 - Agar et al. Rat data set.
 - Original Melbourne University Research Paper
 Agar, W. E., Drummond, F. H., Tiegs, O. W., & Gunson, M. M. (1954). Fourth (final) report on a test of McDougall's Lamarckian experiment on the training of rats.
 Journal of Experimental Biology, 31(3), 307-321.
 
-**Tools Used *
+# Tools Used
 - MiniTab
 - Python for Data Science
 - Matplotlib
