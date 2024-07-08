@@ -21,5 +21,5 @@ Journal of Experimental Biology, 31(3), 307-321.
 
 # Tools Used
 - MiniTab
-- Python for Data Science
+- Python
 - Matplotlib
